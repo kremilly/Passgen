@@ -9,4 +9,4 @@ Passgen app | [Download](https://github.com/thesilvacesar/PassGen/releases) | By
 -----
 
 1. Open the terminal
-2. Type ``python passgen.py``
+2. Type ``python passgen.py`` or ``passgen``
