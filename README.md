@@ -2,7 +2,7 @@
 
 Passgen app | [Download](https://github.com/thesilvacesar/PassGen/releases) | By: [@thesilvacesar](https://github.com/thesilvacesar)
 
-![Screenshot](https://i.imgur.com/WhcsALw.png)
+![Screenshot](https://i.imgur.com/u9lncqN.png)
 
 -----
 
