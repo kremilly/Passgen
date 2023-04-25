@@ -1,6 +1,6 @@
 # ![Icon](https://i.imgur.com/PGkjoTt.png)
 
-Passgen app | [Download](https://github.com/thesilvaemily/PassGen/releases) | By: [@thesilvaemily](https://github.com/thesilvaemily)
+Passgen app | [Download](https://github.com/kremilly/PassGen/releases) | By: [@kremilly](https://github.com/kremilly)
 
 ![Screenshot](https://i.imgur.com/u9lncqN.png)
 
